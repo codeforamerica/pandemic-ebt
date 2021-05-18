@@ -8,7 +8,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'cfa-styleguide', git: 'https://github.com/codeforamerica/honeycrisp-gem'
 gem 'lograge'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 5.0'
+gem 'puma', '~> 5.3'
 gem 'rack-cors'
 gem 'rails', '>= 6.0.3.5', '< 6.1'
 gem 'sass-rails', '~> 6.0'
